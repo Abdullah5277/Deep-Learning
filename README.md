@@ -18,3 +18,19 @@ The notebook can be used to explore:
     Evaluating model performance
 
     Predicting handwritten digits
+
+3. Convolutional Neural Network (CNN) File: CNN.ipynb
+This project focuses on implementing a Convolutional Neural Network (CNN) using deep learning techniques.
+Topics covered:
+- Loading and exploring image data
+- Data preprocessing
+- Feature extraction
+- Convolutional layers
+- Pooling layers
+- Model training
+- Image classification
+- Accuracy evaluation
+The goal is to demonstrate how CNNs can be used to extract features from images and perform image classification tasks.
+Note: This project is for educational purposes.
+
+    
