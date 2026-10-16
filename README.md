@@ -33,4 +33,23 @@ Topics covered:
 The goal is to demonstrate how CNNs can be used to extract features from images and perform image classification tasks.
 Note: This project is for educational purposes.
 
-    
+    Deep Learning File: Deep_Learning.ipynb
+This project focuses on understanding and implementing deep learning concepts using Python.
+Topics covered:
+- Introduction to deep learning
+- Neural networks
+- Data preprocessing
+- Model building
+- Model training
+- Prediction
+- Model evaluation
+The goal is to demonstrate the fundamentals of deep learning and how neural networks can be used to solve machine learning problems.
+5) Deep Learning Introduction File: Deep_Learning_intro.ipynb
+This notebook introduces the basic concepts and fundamentals of deep learning.
+Topics covered:
+- Introduction to deep learning
+- Machine learning vs. deep learning
+- Artificial neural networks
+- Deep learning applications
+- Basic concepts of neural networks
+- Understanding deep learning workflows
